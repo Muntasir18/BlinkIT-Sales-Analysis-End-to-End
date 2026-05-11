@@ -30,4 +30,4 @@ The goal was to identify which factors (Fat content, Item type, Outlet size) mos
 - **Power BI:** DAX measures, star schema modeling, and interactive filtering.
 
 ## Project Resources
-- **All Files and Data:** [Blinkit Report](https://drive.google.com/drive/folders/1UuWCEPsKpdjqTcbh76qFkitQ4OvMlaIR?usp=sharing)
+- **All Files and Data also availble here:** [Blinkit Report](https://drive.google.com/drive/folders/1UuWCEPsKpdjqTcbh76qFkitQ4OvMlaIR?usp=sharing)
